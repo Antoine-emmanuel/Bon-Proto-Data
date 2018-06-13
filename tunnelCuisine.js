@@ -70,5 +70,5 @@ window.tunnelCuisine = [
             }
         ],
         "relatedQuestion" : "Comment savoir ?"
-    }, {
+    }, { 
 ]
