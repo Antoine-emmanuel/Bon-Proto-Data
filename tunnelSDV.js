@@ -13,7 +13,7 @@ window.tunnelSDV = [
         ],
         "relatedQuestion" : "Pourquoi c'est important ?"
     }, {
-        "question": "Envisagez-vous de réorganiser l'espace de votre cuisine ?",
+        "question": "Envisagez-vous de réorganiser l'espace de votre salle de vie ?",
         "details": "Redistribution de l'espace, modification de cloisons, de fenêtres ou portes…",
         "answers": [
             {
@@ -29,7 +29,7 @@ window.tunnelSDV = [
         ],
         "relatedQuestion" : ""
     }, {
-         "question": "Comptez-vous refaire les installations ou les revêtements dans votre logement ?",
+         "question": "Comptez-vous refaire les installations ou les revêtements dans votre salle de vie ?",
         "details": "Plomberie, éléctricité, maçonnerie, menuiserie, parquets,…",
         "answers": [
             {
