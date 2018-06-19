@@ -29,6 +29,32 @@ window.tunnelSDV = [
         ],
         "relatedQuestion" : ""
     }, {
+        "question": "Un expert a-t-il bien vérifié que votre projet ne concerne aucune structure porteuse ?",
+        "details": "",
+        "answers": [
+            {
+                "label": "Oui",
+                "next": "3",
+            }, {
+                "label": "Non",
+                "next": "3",
+            }
+        ],
+        "relatedQuestion" : "Qui est habilité à expertiser une structure ? "
+    }, {
+        "question": "Comptez-vous réagencer les meubles de votre salle de vie ?",
+        "details": "Re-concevoir l’espace, déplacer un point d’eau",
+        "answers": [
+            {
+                "label": "Oui",
+                "next": "4",
+            }, {
+                "label": "Non",
+                "next": "4",
+            }
+        ],
+        "relatedQuestion" : ""
+    }, {
          "question": "Comptez-vous refaire les installations ou les revêtements dans votre salle de vie ?",
         "details": "Plomberie, éléctricité, maçonnerie, menuiserie, parquets,…",
         "answers": [
