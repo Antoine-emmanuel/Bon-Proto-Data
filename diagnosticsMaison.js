@@ -315,6 +315,7 @@ Attention : restructurer un espace a souvent un impact sur les installations ou 
                 "label" : "Les précautions à prendre en copropriété",
                 "href" : "#"
             }
+          ]
              }, "[0,0,1,1]": {
         "text": `La surface après extension de votre maison sera supérieure à 150m². dans ce cas l'intervention d'un architecte est obligatoire pour la réalisation des plans architecturaux qui seront déposés à la mairie pour la demande de permis de constuire. Il  sera également à même d'identifier si une structure porteuse est concernée par votre projet. Il vous aidera aussi à définir les installations ou équipements qu'il convient de refaire`,
         "mandatoryPros": [
