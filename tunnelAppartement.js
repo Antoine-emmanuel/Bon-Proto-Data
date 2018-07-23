@@ -14,7 +14,7 @@ window.tunnelAppartement = [
                 "next": "2",
             }
         ],
-        "relatedQuestion" : "Pourquoi c'est important ?"
+        "relatedQuestion" : ""
     }, {
         "question": "Un expert a-t-il bien vérifié que votre projet ne concerne aucune structure porteuse ?",
         "details": "",
@@ -43,6 +43,6 @@ window.tunnelAppartement = [
                 "next": "",
             }
         ],
-        "relatedQuestion" : "Comment savoir ?"
+        "relatedQuestion" : ""
     }
 ]
